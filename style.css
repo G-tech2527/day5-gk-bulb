@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+}
+img{
+    padding-left: 650px;
+    
+}
+button{
+    margin-left: 805px;
+    margin-top: 40px;
+    height: 40px;
+    width: 180px;
+    color: rgb(254, 253, 255);
+    border: solid gray;
+    background:rgb(209, 9, 209) ;
+}
+button:hover{
+    background: rgb(242, 190, 242);
+}
+
